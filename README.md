@@ -21,8 +21,8 @@
 
 ## 다운로드
 
-* [Silhoua14.ttf](Silua14.ttf)
-* [Silhoua14.bdf](Silua14.bdf)
+* [Silhoua14.ttf](Silhoua14.ttf)
+* [Silhoua14.bdf](Silhoua14.bdf)
 * ~Silhoua14.woff2~ - 툴에서 생성해주지 않아서 첨부를 못했습니다.
 
 ## 이 프로젝트의 라이센스
