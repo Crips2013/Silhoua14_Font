@@ -1,4 +1,4 @@
-# Silua14_Font
+# Silhoua14_Font
 ![](image/title.png)
 
 7x14 크기의 비트맵 폰트
@@ -21,9 +21,9 @@
 
 ## 다운로드
 
-* [Silua14.ttf](Silua14.ttf)
-* [Silua14.bdf](Silua14.bdf)
-* ~Silua14.woff2~ - 툴에서 생성해주지 않아서 첨부를 못했습니다.
+* [Silhoua14.ttf](Silua14.ttf)
+* [Silhoua14.bdf](Silua14.bdf)
+* ~Silhoua14.woff2~ - 툴에서 생성해주지 않아서 첨부를 못했습니다.
 
 ## 이 프로젝트의 라이센스
 
