@@ -34,4 +34,4 @@ Silhoua14는 [SIL 오픈 폰트 라이선스 1.1](https://scripts.sil.org/cms/sc
 
 그리고 Silhoua14를 수정하여 파생된 이차적 저작물 폰트는 이름에 ‘Galmuri’를 사용할 수 없으며, 다른 유형의 라이선스로 배포할 수 없습니다.
 
-라이선스 원문은 [이곳](https://github.com/Wintiger0222/Silhoua14_Font/blob/main/LICENSE.md)에서 확인할 수 있습니다.
+OFL 1.1을 한국어로 번역한 내용은 [이곳](https://github.com/Wintiger0222/Silhoua14_Font/blob/main/LICENSE_ko.md)에서 확인할 수 있으며, 라이선스 원문은 [이곳](https://github.com/Wintiger0222/Silhoua14_Font/blob/main/LICENSE.md)에서 확인할 수 있습니다.
