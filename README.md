@@ -12,6 +12,8 @@
 
 ## 사용 도구
 * [Pixel Font Maker](https://github.com/exqt/pixel-font-maker) : 폰트 제작
+* CrystalTile2
+* Microsoft Excel
 ### 참조 폰트
 * [포켓몬스터 은 한국어 현지화 프로토타입](https://www.youtube.com/watch?v=gULKZEj0fJc&feature=emb_title) : KS X 1001 기준 `끗`∼`뷔`, `빨`∼`슭` 구간 참조 
 
