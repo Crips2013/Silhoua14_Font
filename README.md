@@ -27,6 +27,10 @@
 * [Silhoua14.bdf](https://github.com/Wintiger0222/Silhoua14_Font/raw/main/Silhoua14.bdf)
 * ~Silhoua14.woff2~ - 툴에서 생성해주지 않아서 첨부를 못했습니다.
 
+## 참조 프로젝트
+
+ * [galmuri 폰트 프로젝트](https://github.com/quiple/galmuri)
+
 ## 이 프로젝트의 라이센스
 Copyright © 2022 TaeYun An (0xodbs02@naver.com), with reserved font name “Silhoua14”.
 
