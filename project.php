@@ -1,7 +1,7 @@
 {
 	"version": 1,
 	"attr": {
-		"name": "Silua14",
+		"name": "Silhoua14",
 		"author": "windowstiger",
 		"widthType": "monospace",
 		"fixedWidth": 8,
@@ -103419,11 +103419,11 @@
 			"name": "ZIK | choseong | 3 | ㄹ",
 			"unicode": 57387,
 			"data": [
-				"###.###",
-				"..#..#.",
-				"..#.#.#",
-				"..#.#.#",
-				"..#.#.#",
+				"#...###",
+				"#....#.",
+				"#...#.#",
+				"#...#.#",
+				"###.#.#",
 				".......",
 				"......."
 			]
