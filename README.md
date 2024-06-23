@@ -32,7 +32,7 @@
  * [galmuri 폰트 프로젝트](https://github.com/quiple/galmuri)
 
 ## 이 프로젝트의 라이센스
-Copyright © 2022 TaeYun An (WindowsTiger / 혜음우리말화연구소) (0xodbs02@naver.com), with reserved font name “Silhoua14”.
+Copyright © 2022 TaeYun An (0xodbs02@naver.com), with reserved font name “Silhoua14”.
 
 Silhoua14는 [SIL 오픈 폰트 라이선스 1.1](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)에 따라 사용할 수 있으며, 폰트가 자체적으로 판매되지 않는 한 자유롭게 사용·연구·수정·재배포할 수 있습니다. 또한 어떠한 경우에도 저작권자는 계약·불법 행위 또는 기타 계약의 조치로 인한 일반·특수·간접·부수·결과적 손해를 포함하여 어떠한 청구·손해 또는 기타 책임도 지지 않습니다.
 
